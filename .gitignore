@@ -70,3 +70,4 @@ logs/
 #stuff
 .vscode
 .venv
+run.bat
